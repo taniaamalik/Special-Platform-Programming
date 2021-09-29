@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\Tugas2\Tugas2\bin\Debug\Tugas2.exe.config
+C:\Users\Asus\source\repos\Tugas2\Tugas2\bin\Debug\Tugas2.exe
+C:\Users\Asus\source\repos\Tugas2\Tugas2\bin\Debug\Tugas2.pdb
+C:\Users\Asus\source\repos\Tugas2\Tugas2\obj\Debug\Tugas2.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Tugas2\Tugas2\obj\Debug\Tugas2.Form1.resources
+C:\Users\Asus\source\repos\Tugas2\Tugas2\obj\Debug\Tugas2.Properties.Resources.resources
+C:\Users\Asus\source\repos\Tugas2\Tugas2\obj\Debug\Tugas2.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Tugas2\Tugas2\obj\Debug\Tugas2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Tugas2\Tugas2\obj\Debug\Tugas2.exe
+C:\Users\Asus\source\repos\Tugas2\Tugas2\obj\Debug\Tugas2.pdb
+C:\Users\Asus\source\repos\Tugas2\Tugas2\obj\Debug\Tugas2.Form2.resources
+C:\Users\Asus\source\repos\Tugas2\Tugas2\obj\Debug\Tugas2.Form3.resources
+C:\Users\Asus\source\repos\Tugas2\Tugas2\obj\Debug\Tugas2.Form4.resources

@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Tugas3\Tugas3\bin\Debug\Tugas3.exe.config
+C:\Users\Asus\source\repos\Tugas3\Tugas3\bin\Debug\Tugas3.exe
+C:\Users\Asus\source\repos\Tugas3\Tugas3\bin\Debug\Tugas3.pdb
+C:\Users\Asus\source\repos\Tugas3\Tugas3\obj\Debug\Tugas3.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Tugas3\Tugas3\obj\Debug\Tugas3.Form1.resources
+C:\Users\Asus\source\repos\Tugas3\Tugas3\obj\Debug\Tugas3.FormPict.resources
+C:\Users\Asus\source\repos\Tugas3\Tugas3\obj\Debug\Tugas3.Properties.Resources.resources
+C:\Users\Asus\source\repos\Tugas3\Tugas3\obj\Debug\Tugas3.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Tugas3\Tugas3\obj\Debug\Tugas3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Tugas3\Tugas3\obj\Debug\Tugas3.exe
+C:\Users\Asus\source\repos\Tugas3\Tugas3\obj\Debug\Tugas3.pdb

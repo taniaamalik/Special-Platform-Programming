@@ -1,0 +1,29 @@
+C:\Users\valen\Desktop\projek ppk\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.exe.config
+C:\Users\valen\Desktop\projek ppk\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.exe
+C:\Users\valen\Desktop\projek ppk\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.pdb
+C:\Users\valen\Desktop\projek ppk\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.csprojAssemblyReference.cache
+C:\Users\valen\Desktop\projek ppk\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Form1.resources
+C:\Users\valen\Desktop\projek ppk\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Properties.Form2.resources
+C:\Users\valen\Desktop\projek ppk\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Form3.resources
+C:\Users\valen\Desktop\projek ppk\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Properties.Form4.resources
+C:\Users\valen\Desktop\projek ppk\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Properties.Form5.resources
+C:\Users\valen\Desktop\projek ppk\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Properties.Form6.resources
+C:\Users\valen\Desktop\projek ppk\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Properties.Resources.resources
+C:\Users\valen\Desktop\projek ppk\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.csproj.GenerateResource.cache
+C:\Users\valen\Desktop\projek ppk\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\projek ppk\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.exe
+C:\Users\valen\Desktop\projek ppk\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.pdb
+C:\Users\Asus\source\repos\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Form1.resources
+C:\Users\Asus\source\repos\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Properties.Form2.resources
+C:\Users\Asus\source\repos\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Form5.resources
+C:\Users\Asus\source\repos\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Properties.Form5.resources
+C:\Users\Asus\source\repos\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Properties.Form6.resources
+C:\Users\Asus\source\repos\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Properties.Resources.resources
+C:\Users\Asus\source\repos\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.exe.config
+C:\Users\Asus\source\repos\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.exe
+C:\Users\Asus\source\repos\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.pdb
+C:\Users\Asus\source\repos\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.exe
+C:\Users\Asus\source\repos\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.pdb
+C:\Users\Asus\source\repos\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.csprojAssemblyReference.cache
